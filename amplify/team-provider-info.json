@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tyerrachallenge-dev-21235-authRole",
+      "UnauthRoleArn": "arn:aws:iam::960203263845:role/amplify-tyerrachallenge-dev-21235-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::960203263845:role/amplify-tyerrachallenge-dev-21235-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tyerrachallenge-dev-21235-deployment",
+      "UnauthRoleName": "amplify-tyerrachallenge-dev-21235-unauthRole",
+      "StackName": "amplify-tyerrachallenge-dev-21235",
+      "StackId": "arn:aws:cloudformation:us-east-2:960203263845:stack/amplify-tyerrachallenge-dev-21235/7db30500-317d-11ec-bf1c-027516eb40e0",
+      "AmplifyAppId": "dlj2uuvzjvpz5"
+    }
+  }
+}
